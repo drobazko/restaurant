@@ -1,0 +1,6 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  number: 10
+  start: 2014-06-02 10:47:59
+  end: 2014-06-02 11:47:59
